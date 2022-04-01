@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/cheukwing/Github/mozro0327/leetcode_daily",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/leetcode_daily/linux/x86_64/debug/src/Day01/lc989.cpp.o", "src/Day01/lc989.cpp"],
+  "file": "src/Day01/lc989.cpp"
+}]
